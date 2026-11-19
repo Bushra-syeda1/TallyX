@@ -1,7 +1,7 @@
 # TallyX — Zero-Hallucination Financial & GST Copilot for Indian MSMEs
 
 > **Arthaton 2026 Submission** | Built by Bushra Syeda  
-> **Live Demo Video:** [Watch the <5-Minute Walkthrough on YouTube](YOUR_YOUTUBE_LINK_HERE)
+> **Live Demo Video:** [Watch the <5-Minute Walkthrough on YouTube](https://youtu.be/yLpNoDIjs4Q)
 
 ---
 
@@ -100,7 +100,7 @@ tallyx/
 ### Step-by-Step Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/tallyx.git](https://github.com/YOUR_USERNAME/tallyx.git)
+   git clone [https://github.com/Bushra-syeda1/TallyX.git](https://github.com/Bushra-syeda1E/TallyX.git)
    cd tallyx
    ```
 
