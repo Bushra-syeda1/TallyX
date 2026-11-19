@@ -100,7 +100,7 @@ tallyx/
 ### Step-by-Step Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Bushra-syeda1/TallyX.git](https://github.com/Bushra-syeda1E/TallyX.git)
+   git clone [https://github.com/Bushra-syeda1/TallyX.git](https://github.com/Bushra-syeda1/TallyX.git)
    cd tallyx
    ```
 
